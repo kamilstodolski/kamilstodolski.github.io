@@ -21,6 +21,4 @@ Cennik
  Koszt naprawy jest uzalezniony od jej zlozonosci, po diagnozie zawsze podam ile by wynosila naprawa.
 
 
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme
+
