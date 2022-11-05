@@ -2,7 +2,7 @@
 # Naprawa komputerów i laptopów
 
 
-Cześć! Niedawno sprowadzilem się na wyspe, mam prace ale moja pasje od dawna jest naprawa PC-tów. Jesli masz problem ze swoim to pisz!
+Cześć! Niedawno sprowadzilem się na wyspe, mam prace ale moja pasje od dawna jest naprawa PC-tów. Jesli masz problem ze swoim to pisz! Nie naprawiam uszkodzen fizycznych
 
  - Naprawa
  - Konfiguracja
@@ -10,7 +10,7 @@ Cześć! Niedawno sprowadzilem się na wyspe, mam prace ale moja pasje od dawna 
  - Problemy z siecia
  - Drukarki
  - Skladanie lub wymiana podzespolow
-- Z telefonami na androidzie tez sobie radze całkiem nieźle.
+- Telefony na androidzie
 - Strona-wizytowka (prosta strona)
 
 Cennik
