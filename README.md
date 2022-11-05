@@ -2,7 +2,7 @@
 # Naprawa komputerów i laptopów
 
 
-Cześć! Niedawno sprowadzilem się na wyspe, mam prace ale moja pasje od dawna jest naprawa PC-tów. Jesli masz problem ze swoim to pisz! Nie naprawiam uszkodzen fizycznych
+Cześć! Niedawno sprowadzilem się na wyspe, mam prace ale moja pasje od dawna jest naprawa PC-tów. Jesli masz problem ze swoim to pisz! Nie naprawiam uszkodzen fizycznych.
 
  - Naprawa
  - Konfiguracja
