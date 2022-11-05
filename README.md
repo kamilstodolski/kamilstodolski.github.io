@@ -18,6 +18,4 @@ Cennik
  - Diagnoza -2000 kr.
  - Strona www - 5000 kr.
  - Skladanie Pc - 10000 kr. -20000 kr. + koszt części
- - Koszt naprawy jest uzalezniony od jej zlozonosci, po diagnozie zawsze podam ile by wynosila naprawa.
-
-> Written with [StackEdit](https://stackedit.io/).
+ Koszt naprawy jest uzalezniony od jej zlozonosci, po diagnozie zawsze podam ile by wynosila naprawa.
